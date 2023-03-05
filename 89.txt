@@ -1,0 +1,8 @@
+ML:-
+TRAINING:                                    TESTING: 
+Data collection                              Pridiction
+Fetures Extraction
+Training or rules generation
+Output Model
+
+
